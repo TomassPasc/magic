@@ -1,0 +1,1 @@
+<a href="https://codeclimate.com/github/TomassPasc/magic/maintainability"><img src="https://api.codeclimate.com/v1/badges/b791c6d3e04c6314954e/maintainability" /></a>
